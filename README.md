@@ -1,7 +1,5 @@
 # Muhammad Raveel Jamil — Portfolio
 
-A professional, dark-themed portfolio built with React and Vite.
-
 ## Requirements
 - Node.js 18 or newer
 - npm
